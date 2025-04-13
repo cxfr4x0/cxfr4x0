@@ -46,24 +46,24 @@ Passionate about pentesting and Red Team operations. Currently focused on expand
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" /> GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cxfr4x0&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe" width="25" height="25" /> Connect With Me
+## 🌐 Connect With Me
 
 - 🐦 Twitter: [@cxfr4_](https://twitter.com/cxfr4_)
 - 💼 Portfolio: [cxfr4.vercel.app](https://cxfr4.vercel.app)
 - 📝 Blog: [cxfr4.vercel.app/blog](https://cxfr4.vercel.app/blog)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> Projects
+## 🚀 Projects
 
 > Working on tools and resources for the cybersecurity community...
 
 ---
 
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=Views&query=%24.value&url=https://api.countapi.xyz/hit/cxfr4x0/visits" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=cxfr4x0&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
